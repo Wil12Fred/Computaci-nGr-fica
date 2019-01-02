@@ -2,7 +2,6 @@
 
 Dependencias: [FLTK](http://www.fltk.org/index.php)
 Asegurarse de modificar el archivo Makefile para linkear bien con la librería FLTK. 
-En caso de hacer modificaciones en el Makefile, coloquen alguna condicional para que funcione tanto en mi mac como en sus computadoras. 
 
 Compilación: 
 ```
